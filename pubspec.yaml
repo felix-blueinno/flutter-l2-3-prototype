@@ -21,12 +21,9 @@ flutter:
 
   assets:
     - images/
-    - images/items/
-    - images/items/sprites/
 
     - images/pokedex/
     - images/pokedex/hires/
     - images/pokedex/sprites/
-    - images/pokedex/thumbnails/
 
     - images/icons/
